@@ -2,7 +2,7 @@
 
 Hanabi but MCP (only spent one day)
 
-Not perfect, **just work.**
+Not perfect, **just works.**
 
 Bugs:
 Rendering Error & Unknown Errors
