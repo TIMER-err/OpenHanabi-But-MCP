@@ -1,0 +1,345 @@
+Hitbox_Min-Size:d:0.1
+Hitbox_Max-Size:d:0.25
+Velocity_Mode:s:Mode:0
+Velocity_Vertical:d:0.0
+Velocity_Horizontal:d:0.0
+Velocity_Check KB:b:true
+KillAura_AutoBlock:b:true
+KillAura_Interact:b:false
+KillAura_Dynamic-UnBlock:b:false
+KillAura_Swing-Glich:b:false
+KillAura_Range:d:4.2
+KillAura_MaxTargets:d:1.0
+KillAura_Min CPS:d:6.0
+KillAura_Max CPS:d:12.0
+KillAura_Block Range:d:0.5
+KillAura_Players:b:true
+KillAura_Animals:b:false
+KillAura_Mobs:b:false
+KillAura_Through Block:b:true
+KillAura_Invisibles:b:false
+KillAura_Fov Check:d:360.0
+KillAura_Rotation Strafe:b:false
+KillAura_Yaw X Min Offset:d:0.0
+KillAura_Yaw X Max Offset:d:0.0
+KillAura_Yaw Z Min Offset:d:0.0
+KillAura_Yaw Z Max Offset:d:0.0
+KillAura_Pitch Offset:d:0.0
+KillAura_HitBox Expand:d:0.1
+KillAura_Predict:b:false
+KillAura_Y-Resolver:b:false
+KillAura_Horizon-Resolver:b:true
+KillAura_X Random:b:false
+KillAura_Z Random:b:false
+KillAura_Pitch Random:b:false
+KillAura_Resolver Accuracy:d:3.0
+KillAura_Pre Attack Fov:d:1.1
+KillAura_Rotation Smooth:d:0.0
+KillAura_Block Rate:d:100.0
+KillAura_ExtraKB When Hurt:b:false
+KillAura_Block When Hurt:b:false
+KillAura_Check Name:b:true
+KillAura_Rotation Reverse Chance:d:0.0
+KillAura_Rotation Mistake Chance:d:0.0
+KillAura_Switch Delay:d:50.0
+KillAura_Mistakes:d:0.0
+KillAura_Auto Disable:b:true
+KillAura_Show Target:b:true
+KillAura_Slient:b:true
+KillAura_ESP:b:true
+KillAura_More KB:b:false
+KillAura_Pre Hit:b:false
+KillAura_Pre Block:b:false
+KillAura_AAC Bot Check:b:false
+KillAura_Multi:b:false
+KillAura_Force Update:b:false
+KillAura_Attack Fix:b:false
+KillAura_Hitable Check:b:true
+KillAura_Rotate Head:b:true
+KillAura_Min Turn Head Speed:d:60.0
+KillAura_Max Turn Head Speed:d:60.0
+KillAura_Wither Priority:b:true
+KillAura_Mode:s:Block Mode:0
+KillAura_Mode:s:S-Fix Mode:0
+KillAura_Mode:s:ESP Mode:0
+KillAura_Mode:s:TargetHUD:0
+KillAura_Mode:s:Priority:1
+Criticals_Mode:s:Mode:0
+Criticals_Mode:s:Packet Mode:0
+Criticals_Hurt Time:d:15.0
+Criticals_Delay:d:100.0
+Criticals_Step Timer:d:100.0
+Criticals_Edit Value:d:0.0625
+Criticals_Notification:b:false
+Criticals_Pre-FDistance:b:false
+Criticals_Keep Packet:b:false
+AutoSword_Slot:d:1.0
+Reach_Min-Range:d:3.5
+Reach_Max-Range:d:4.2
+Reach_Through Wall:b:true
+TargetStrafe_Strafe Range:d:2.0
+TargetStrafe_Space Toggled:b:true
+TargetStrafe_Void Check:b:true
+TargetStrafe_Behind:b:false
+TargetStrafe_Direction:b:true
+TargetStrafe_Render:b:true
+AutoHeal_Health Pot:b:true
+AutoHeal_Speed Pot:b:true
+AutoHeal_Pot Health:d:15.0
+AutoHead_Slot:d:7.0
+AutoHead_Delay:d:0.0
+AutoHead_Health:d:14.0
+AutoHead_Mode:s:HealMode:0
+Regen_Packets:d:10.0
+Regen_Delay:d:500.0
+TPAura_CPS:d:2.0
+TPAura_Range:d:30.0
+TPAura_Targets:d:1.0
+TPAura_Swing:b:true
+TPAura_Render Path:b:true
+Sprint_Omni:b:false
+Speed_Mode:s:Mode:1
+Speed_Falling Timer:d:1.0
+Speed_Mode:s:Friction Mode:0
+Speed_Mode:s:Boost Mode:0
+Speed_Mode:s:Motion:0
+Speed_DMG Boost Value:d:0.39
+Speed_Bhop Speed:d:1.0
+Speed_Glide Stage:d:0.1
+Speed_DMG Boost:b:true
+Speed_Tp-Motion:b:true
+Speed_GroundSpoof:b:true
+Speed_Mode:s:AACMode:0
+Speed_Hyt Speed:d:1.0
+Speed_Hyt MotionY:d:0.42
+Speed_Lag Back Checks:b:true
+Speed_Auto Disable:b:true
+Speed_Key Toggle Timer:b:true
+Fly_Motion Speed:d:1.0
+Fly_Mode:s:Mode:0
+Fly_Lag Back Checks:b:true
+LongJump_Visual Fly:b:false
+LongJump_Lag Back Checks:b:false
+LongJump_Mode:s:Mode:0
+LongJump_Flags:b:false
+LongJump_Extra DMG:b:false
+LongJump_Jump Height:d:1.0
+NoSlow_Mode:s:Mode:0
+Step_Mode:s:Mode:0
+Step_Height:d:1.0
+Step_Delay:d:0.0
+HighJump_Mode:s:Mode:0
+HighJump_Boost:d:0.5
+WaterSpeed_Speed :d:1.2
+AutoArmor_Sort In Inv:b:false
+AutoArmor_No Move:b:false
+AutoArmor_Delay:d:150.0
+InvCleaner_Tools:b:false
+InvCleaner_Armor:b:false
+InvCleaner_Bow:b:false
+InvCleaner_Bucket:b:false
+InvCleaner_Arrow:b:false
+InvCleaner_OnlyInv:b:false
+InvCleaner_No Move:b:false
+InvCleaner_Sort:b:false
+InvCleaner_Delay:d:80.0
+InvCleaner_Auto Toggle:b:false
+InvMove_Mode:s:Mode:0
+NoFall_Fall Distance:d:2.5
+NoFall_Canceled Distance:d:1.0
+NoFall_Spoof Location:d:0.0325
+NoFall_Mode:s:Mode:0
+NoFall_Mode:s:Hypixel Mode:0
+NoFall_Mode:s:AAC Mode:0
+NoFall_More Packet:b:true
+NoFall_F-Distance Reset:b:true
+NoFall_Cancel Packet:b:true
+ChatBypass_Mode:s:Bypass:0
+ChestStealer_Only Chest:b:true
+ChestStealer_Delay:d:30.0
+ChestStealer_Pick Trash:b:true
+ChestStealer_Tools:b:true
+Nuker_Mode:s:Mode:0
+Nuker_Reach:d:6.0
+Nuker_Delay:d:120.0
+Nuker_Instant:b:false
+FastUse_Mode:s:Mode:0
+FastPlace_Delay:d:50.0
+AutoTools_Sword:b:false
+AutoTools_Check Mouse:b:false
+AutoGG_SceenShot:b:true
+AutoGG_Speak Delay:d:100.0
+Patcher_Mode:s:Mode:0
+Patcher_Pong:b:true
+AutoPlay_Delay:d:5.0
+TP2Bed_Delay:d:600.0
+Spammer_Delay:d:2000.0
+Spammer_Random String:b:true
+AimBot_Players:b:false
+AimBot_Only Head:b:false
+AimBot_Range:d:100.0
+AimBot_Pre-Attack:d:1.5
+ClickGUI_Mode:s:Theme:0
+ClickGUI_Blur:b:true
+HudWindow_Session Info:b:false
+HudWindow_Inventory:b:false
+HudWindow_Scoreboard:b:false
+HudWindow_Radar:b:false
+BambooHat_ShowInFirstPerson:b:false
+BambooHat_Side:d:45.0
+BambooHat_Stacks:d:50.0
+Nametags_Invisible:b:false
+Nametags_Armor:b:false
+Fullbright_Mode:s:Mode:0
+ESP_Mode:s:Mode:0
+ESP_Invisible:b:false
+HitAnimation_Mode:s:Mode:0
+HitAnimation_SwingSpeed:d:1.0
+HitAnimation_ItemPosX:d:0.0
+HitAnimation_ItemPosY:d:0.0
+HitAnimation_ItemPosZ:d:0.0
+HitAnimation_ItemScale:d:0.7
+HitAnimation_E-Prog:d:2.0
+HitAnimation_Equip Prog:b:false
+Chams_Rainbow:b:false
+Chams_Flat:b:false
+OreTarget_Diamond:b:true
+OreTarget_Gold:b:true
+OreTarget_Iron:b:true
+OreTarget_Lapis:b:true
+OreTarget_Emerald:b:true
+OreTarget_Coal:b:true
+OreTarget_Redstone:b:true
+OreTarget_Tracers:b:true
+OreTarget_Interactive Delay:d:1000.0
+OreTarget_Max Distance:d:3.0
+OreTarget_Packet:b:true
+OreTarget_Touching Air Or Liquid:b:true
+OreTarget_TestDepth:d:2.0
+OreTarget_Distance Limit Enabled:b:true
+OreTarget_Distance Limit:d:10.0
+OreTarget_Render Limit Enabled:b:true
+OreTarget_Render Limit:d:10.0
+OreTarget_Refresh List:d:500.0
+OreTarget_Alpha:d:0.25
+OreTarget_Line Width:d:2.5
+WayPoints_Ranius:d:30.0
+WayPoints_Arrows:b:true
+ArrowEsp_Size:d:10.0
+ArrowEsp_Radius:d:45.0
+ArrowEsp_Players:b:true
+ArrowEsp_Animals:b:true
+ArrowEsp_Mobs:b:false
+ArrowEsp_Invisibles:b:false
+ArrowEsp_Passives:b:true
+NoFov_Fov:d:1.0
+NameProtect_AllPlayer:b:false
+World Color_Red Color:d:0.0
+World Color_Green Color:d:0.0
+World Color_Blue Color:d:0.0
+World Color_Alpha:d:0.0
+World Time_Time:d:0.0
+World Weather_Mode:s:Mode:0
+AntiBot_Mode:s:Mode:0
+AntiBot_Removed:b:true
+AntiFall_FallDistance:d:10.0
+AntiFall_Delay:d:800.0
+AntiFall_OnlyVoid:b:true
+AntiFall_0 DMG:b:true
+AutoL_AD:b:true
+AutoL_AutoReport:b:true
+AutoL_ClientName:b:true
+AutoL_Abuse:b:false
+HUD_MusicPlayerX:d:70.0
+HUD_MusicPlayerY:d:5.0
+HUD_MusicPlayerLyricY:d:120.0
+HUD_Mode:s:HudMode:0
+HUD_Mode:s:Array List Color:0
+HUD_ArrayList Speed:d:3.0
+HUD_RainBow Offset:d:2.0
+HUD_Fade Offset:d:14.0
+HUD_ArrayList:b:true
+HUD_Fade:b:false
+HUD_Logo:b:true
+HUD_Hotbar:b:true
+HUD_MusicPlayer:b:true
+HUD_Potion:b:true
+HUD_Armor:b:true
+HUD_Compass:b:true
+HUD_Notification:b:true
+HUD_Postion:b:true
+HUD_Obfuscation Name Fix:b:true
+HUD_Mode:s:Sound:0
+HUD_Mode:s:Hit Sound:0
+SpeedMine_Speed:d:0.8
+SpeedMine_PacketSpeed:d:1.6
+SpeedMine_Pot Boost:b:false
+SpeedMine_Extra PP:b:false
+UHCHelper_Sand Breaker:b:false
+UHCHelper_Lightning Check:b:false
+UHCHelper_No Sand Damage:b:false
+UHCHelper_No Water Damage:b:false
+UHCHelper_Less Packet:b:false
+UHCHelper_Stuck Jump:b:false
+UHCHelper_Auto Water:b:false
+UHCHelper_Sneak Move:b:false
+AntiSpammer_History Message:d:10.0
+AntiSpammer_Ratio:d:0.6
+Jesus_Mode:s:Mode:0
+Jesus_Motion Y:d:0.27
+Scaffold_Mode:s:TowerMode:0
+Scaffold_Place Delay:d:0.0
+Scaffold_Diagonal:b:true
+Scaffold_Slient:b:true
+Scaffold_No Swing:b:true
+Scaffold_Safe Walk:b:true
+Scaffold_Only Ground:b:true
+Scaffold_Sprint:b:true
+Scaffold_Sneak:b:true
+Scaffold_Move Motify:d:1.0
+Scaffold_Ray Cast:b:true
+Scaffold_ESP:b:true
+Scaffold_Sneak Tick:d:1.0
+Scaffold_Move Tower:b:true
+Scaffold_Hypixel:b:true
+Scaffold_Timer Speed:d:1.0
+Scaffold_Rotation Speed:d:6.0
+Timer_TimerSpeed:d:1.0
+Spoofer_Mode:s:Mode:0
+DownClip_Down Value:d:4.0
+AntiAtlas_Delay:d:3.0
+AutoClicker_Max CPS:d:12.0
+AutoClicker_MinC PS:d:8.0
+AutoClicker_Block Hit:b:false
+AutoClicker_Jitter:b:false
+LegitVelocity_Chance:d:100.0
+LegitVelocity_Vertical:d:100.0
+LegitVelocity_Horizontal:d:100.0
+AimAssist_Range:d:4.5
+AimAssist_Players:b:true
+AimAssist_Animals:b:false
+AimAssist_Mobs:b:false
+AimAssist_ThroughBlock:b:true
+AimAssist_Invisibles:b:false
+AimAssist_OnlyWeapon:b:false
+AimAssist_Yaw Offset:d:200.0
+AimAssist_Pitch Offset:d:200.0
+AimAssist_Pitch Random:b:true
+AimAssist_Speed:d:0.1
+AimAssist_Horizontal:d:4.0
+AimAssist_Vertical:d:2.0
+AimAssist_Max Targets:d:1.0
+AimAssist_Switch Delay:d:50.0
+AimAssist_Click Aim:b:false
+AimAssist_Strafe Increase:b:false
+Auto MLG_Delay:d:100.0
+DoubleClicker_Delay:d:50.0
+DoubleClicker_Random:d:50.0
+AutoRod_Delay:d:100.0
+AutoRod_Auto Disable:b:false
+Refill_Delay:d:500.0
+Refill_Soup:b:false
+Refill_Pot:b:false
+Refill_onInv:b:false
+HudWindow_Disable blur:b:false
+HudWindow_Radar Scale:d:2.0
